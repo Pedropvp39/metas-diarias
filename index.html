@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Painel de Metas Diárias</title>
+    <link rel="stylesheet" href="./style/style.css">
+    </head>
+<body>
+    <header>
+        <h1>Painel de Metas Diárias</h1>
+    </header>
+
+    <main>
+        <section id="formulario-metas">
+            <h2>Adicionar Nova Meta</h2>
+            <form id="formMeta">
+                <div>
+                    <label for="titulo">Título da Meta:</label>
+                    <input type="text" id="titulo" required>
+                </div>
+                <div>
+                    <label for="descricao">Descrição da Meta:</label>
+                    <textarea id="descricao" required></textarea>
+                </div>
+                <div>
+                    <label for="prioridade">Prioridade:</label>
+                    <select id="prioridade" required>
+                        <option value="">--Escolha sua Prioridade--</option>
+                        <option value="Baixa">Baixa</option>
+                        <option value="Média">Média</option>
+                        <option value="Alta">Alta</option>
+                    </select>
+                </div>
+                <div>
+                    <label for="data">Data Limite:</label>
+                    <input type="date" id="data" required>
+                </div>
+                <button type="submit" id="adicionar-btn">Adicionar Meta</button>
+                <div class="erro"></div>
+                <span class="status-meta"></span>
+            </form>
+        </section>
+
+
+        <section id="lista-metas">
+            <h2>Metas Pendentes</h2>
+            <ul id="metasContainer">
+                </ul>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; criado por Pedro Henrique Lopes Cavalcanti - Todos os direitos reservados 14-11-2025 </p>
+    </footer>
+
+    <script src="./script/script.js"></script>
+</body>
+</html>
