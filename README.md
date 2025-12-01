@@ -23,7 +23,7 @@ Projeto criado com o intuito de fazer calculos pré-definidos.Permite registrar 
 * Aumentar a pagina
 * deixa-la mais completa
 # Aprendizagem 
-
+N acriação desta pagina foi  possivel aprender como usar um css diferente masi sobre o JavaScript e novas coisas no JavaScript.
 # como clonar Repositorio
 ## 🧑‍💻 Passo a Passo
 Para obter uma cópia completa do código e do histórico da pagina, use o seguinte comando no seu Terminal:
