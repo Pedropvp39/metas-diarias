@@ -11,7 +11,11 @@ Projeto criado com o intuito de fazer calculos pré-definidos.Permite registrar 
 * Após isso extraia a pasta onde desejar *
 * Procure na pasta "index.html" e então click nele duas vezes e ele abrirá em seu navegador *
 # Lista de Funcionalidades
-
+* 🎯 **Criação de Metas:** Formulário intuitivo para **adicionar novas metas** diárias com Título e Descrição.
+* ⭐️ **Definição de Prioridade:** Capacidade de classificar as metas em três níveis: **Baixa**, **Média** ou **Alta**.
+* 📅 **Agendamento:** Possibilidade de definir uma **Data Limite** específica para a conclusão de cada meta.
+* 📝 **Visualização Pendente:** Exibição imediata das **Metas Pendentes** em um painel claro para acompanhamento.
+* 💾 **Persistência de Dados (Implícito):** Embora não especificado, o sistema deve salvar as metas para **uso futuro**. (Se o sistema não salvar os dados, este ponto deve ser adaptado).
 # Melhorias Futuras 
 * Modo Escuro
 * Monitoramento
