@@ -1,2 +1,2 @@
-# metas-diarias
-faz um calculo de metasd pre definidas
+
+https://pedropvp39.github.io/metas-diarias/
