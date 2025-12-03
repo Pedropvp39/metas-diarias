@@ -37,7 +37,7 @@ Para obter uma cópia completa do código e do histórico da pagina, use o segui
 | :--- | :--- |
 | **Autor** | Pedro Henrique.L.Cavalvanti |
 | **Turno** | Matutino |
-|| Turma de Tecnologia em Informatica para Internet|
+|| Turma de Tecnologia em Informatica para Internet - SENAC-DF|
 | **GitHub** | [@Pedropvp39](https://github.com/Pedropvp39) |
 ## Link caso ele ainda esteja hospedado "temporariamente".
 https://pedropvp39.github.io/metas-diarias/
