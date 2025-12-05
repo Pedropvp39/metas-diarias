@@ -29,7 +29,7 @@ Na criação desta pagina foi  possivel aprender como usar um css diferente mais
 ## 🧑‍💻 Passo a Passo
 Para obter uma cópia completa do código e do histórico da pagina, use o seguinte comando no seu Terminal:
 * Copie a URL HTTPS do repositório
-* "[git clone https://github.com/SeuUsuario/nome-do-site.git](https://github.com/Pedropvp39/metas-diarias.git)"
+* "https://github.com/Pedropvp39/metas-diarias.git"
 
 # Autor
 | Campo | Informação |
